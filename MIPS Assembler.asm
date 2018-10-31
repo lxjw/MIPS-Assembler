@@ -1,4 +1,3 @@
-#CS 3340.002 HW 5
 #Lucian Jiang-Wei
 #Read a machine code binary file, and disassemble back into MIPs code
 
